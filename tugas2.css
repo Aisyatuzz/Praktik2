@@ -1,0 +1,201 @@
+body {
+    background-color: #E8D5C4;
+    font-family: sans-serif;
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+.nav a {
+    padding: 15px;
+    text-decoration: none;
+    font-size: 11pt;
+}
+.nav a:link {
+    color: black;
+}
+.nav a:visited {
+    color: black;
+    
+}
+.nav a:hover {
+    color: #E90064;
+    text-decoration: none;
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: ;
+}
+/* Pendidikan*/
+.pendidikan {
+    text-align: center;
+    height: 600px;
+    padding-top: 90px;
+}
+
+.School {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pendidikan h2 {
+    margin-top: 80px;
+}
+
+.card {
+    color: #080707;
+    background-color: #E5FDD1;
+    margin-left: 40px;
+    min-height: 400px;
+    min-width: 300px;
+    max-width: 230px;
+    border-radius: 10px;
+    padding-top: 20px;
+    font-size: large;
+    margin: 60px;
+}
+
+.card h3 {
+    font-size: 32px;
+    line-height: 40px;
+    padding-top: 50px;
+}
+
+.card h4 {
+    font-size: 24px;
+    padding: 20px;
+}
+
+.card img {
+    width: 170px;
+    height: 170px;
+}
+/* Jadwal Kuliah */
+.kuliah {
+    background-color: #FF8E9E;
+    color: #fafafa;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.kuliah table {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+    background: #AACB73;
+    border: 1px solid;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table tr {
+    text-align: center;
+    padding-left: 15px;
+}
+
+table td {
+    font-size: 20px;
+    padding: 15px 24px;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #90A17D;
+    border-left: 1px solid #90A17D;
+    background: whitesmoke;
+}
+
+table th {
+    font-size: 32px;
+    padding: 15px 35px;
+    border-top: 1px solid #90A17D;
+    border-bottom: 1px solid #90A17D;
+    border-left: 1px solid #90A17D;
+    background: #609EA2;
+    color: #fafafa;
+}
+/*aktivitas*/
+
+.aktivitas {
+    background-color: #E8D5C4;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.kartu {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardact {
+    color: black;
+    background-color: #E5FDD1;
+    margin-top: 40px;
+    margin-left: 40px;
+    max-width: 300px;
+    min-height: 350px;
+    border-radius: 10px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin: 60px;
+}
+
+.cardact h2 {
+    font-size: 24px;
+}
+
+.cardact span {
+    font-weight: bold;
+    color: #85586F;
+}
+
+.card p {
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.imglogo {
+    height: 140px;
+    width: 140px;
+}
+
+.cardact p {
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.cardact img {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.cardact h2 {
+    font-size: 32px;
+    padding: 10px;
+}
+
+.title {
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 20px;
+}
